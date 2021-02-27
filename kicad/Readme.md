@@ -10,4 +10,4 @@ At 26_02_21.kicad_pcb we try to design more cheapest board to everyone can easil
 
 
 
-### Regards from carmot
+### Regards from carmot !!!!
