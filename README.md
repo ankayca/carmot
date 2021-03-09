@@ -17,7 +17,5 @@ If you have the experience or motivation to will be expert of this zones:
             I will feel honor to work with you.
 # Contact: 
   email :ankayca2121@gmail.com
-  github: github.com/ankayca
-  My Cv : https://www.canva.com/design/DAEPuy5DKqE/xpWb8mDosJTSOpav23jDIQ/view?utm_content=DAEPuy5DKqE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-  Also I have lots of freelancer experience but for business reasons I did not add my Cv this projects.
+
   
